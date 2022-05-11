@@ -37,7 +37,7 @@ export const ProviderShortTextMap = {
     [Provider.ibmz]: 'IBM Z',
     [Provider.baremetal]: 'Bare metal',
     [Provider.vmware]: 'VMware',
-    [Provider.hybrid]: 'On Premise',
+    [Provider.hybrid]: 'Assisted installation',
     [Provider.alibaba]: 'Alibaba',
     [Provider.other]: 'Other',
 }
@@ -55,7 +55,7 @@ export const ProviderLongTextMap = {
     [Provider.ibmz]: 'IBM Z',
     [Provider.baremetal]: 'Bare metal',
     [Provider.vmware]: 'VMware vSphere',
-    [Provider.hybrid]: 'On Premise',
+    [Provider.hybrid]: 'Assisted installation',
     [Provider.alibaba]: 'Alibaba Cloud',
     [Provider.other]: 'Other',
 }
